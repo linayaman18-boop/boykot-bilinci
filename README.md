@@ -1,4 +1,3 @@
-# boykot-bilinci
 <!DOCTYPE html>
 <html lang="tr">
 <head>
